@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Satyam Gupta<br><br>💻 Associate Software Developer at Arrise Solutions<br>🤖 Backend developer with a strong interest in AI-driven applications.<br><br>I build scalable APIs using Node.js, Spring Boot, MongoDB, and AWS, and have worked on AI-based projects like resume-driven mock interviews and image-based disease detection. Currently exploring system design and microservices.
+👋 Hi, I'm Satyam Gupta<br><br>💻 Associate Software Engineer at Arrise Solutions<br>🤖 Backend developer with a strong interest in AI-driven applications.<br><br>I build scalable APIs using Node.js, Spring Boot, MongoDB, and AWS, and have worked on AI-based projects like resume-driven mock interviews and image-based disease detection. Currently exploring system design and microservices.
 
 
 ## 🌐 Socials:
